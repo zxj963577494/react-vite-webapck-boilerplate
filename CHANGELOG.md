@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/zxj963577494/react-vite-webapck-boilerplate/compare/v1.2.0...v1.2.1) (2021-07-22)
+
+
+### Bug Fixes
+
+* 更新配置 ([06002f8](https://github.com/zxj963577494/react-vite-webapck-boilerplate/commit/06002f8bed9ba0f5bde57cbffaf10c0c463073bf))
+
 ## 1.2.0 (2021-07-22)
 
 
