@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.2.0 (2021-07-22)
+
+
+### Features
+
+* first commit ([9a7165e](https://github.com/zxj963577494/react-vite-webapck-boilerplate/commit/9a7165e1e63b70ce1179f59e6df61ec2cd95a8b1))
+
+
+### Bug Fixes
+
+* 优化配置 ([99ae955](https://github.com/zxj963577494/react-vite-webapck-boilerplate/commit/99ae9550b2dcbf602cf03b302b2df2d653654778))
+
 ### [1.1.3](https://github.com/zxj963577494/pine-basic-js/compare/v1.1.2...v1.1.3) (2021-07-21)
 
 
