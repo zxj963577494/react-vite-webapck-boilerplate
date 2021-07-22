@@ -134,6 +134,9 @@ module.exports = {
     },
   ],
   settings: {
+    react: {
+      version: 'detect',
+    },
     'import/resolver': { node: { extensions: ['.js', '.jsx', '.ts', '.tsx'] } },
     polyfills: ['fetch', 'Promise', 'promises', 'url', 'object-assign'],
   },
